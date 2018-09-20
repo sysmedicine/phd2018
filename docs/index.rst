@@ -33,5 +33,6 @@ Course Credits
 
 .. toctree::
    :maxdepth: 2
-
+   
+   index
    uppmax
