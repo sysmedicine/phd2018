@@ -37,5 +37,5 @@ Site Structure
 .. toctree::
    :maxdepth: 1
    
-   index
+   welcome
    uppmax
