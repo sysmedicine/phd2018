@@ -38,4 +38,5 @@ Site Structure
    :maxdepth: 1
    
    welcome
+   travel
    uppmax
