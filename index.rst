@@ -30,3 +30,4 @@ Guest lecturers will also attend the course. It will be a 4 days PhD course with
 Course Credits
 ==============
 3 ECTS. Certificate will be given by the end of the course.
+Preparatory Tasks
