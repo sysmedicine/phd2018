@@ -31,6 +31,9 @@ Course Credits
 ==============
 3 ECTS. Certificate will be given by the end of the course.
 
+
+Site Structure
+==============
 .. toctree::
    :maxdepth: 2
    
