@@ -1,0 +1,11 @@
+channels:
+- conda-forge
+- bioconda
+dependencies:
+- metaphlan2
+- bowtie2
+- trimmomatic
+- samtools
+- bedtools
+- graphlan
+- hclust2
