@@ -1,1 +1,2 @@
-https://kth.box.com/v/phd2018Transcriptomic
+BOX Link: https://kth.box.com/v/phd2018Transcriptomic
+UPPMAX Directory: /proj/g2018024/nobackup/TranscriptomicWorkshop
